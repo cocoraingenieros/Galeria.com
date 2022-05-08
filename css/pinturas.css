@@ -1,0 +1,49 @@
+#Pinturas{
+    background-color: rgb(35, 255, 6);
+    position: relative;
+
+}
+#Pinturas .container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 0px;
+   
+}
+
+#Pinturas h1 {
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma;
+    color: brown;
+    margin-top: 40px;
+    text-align: center;
+    background-color: rgba(7, 21, 148, 0.397);
+    width: 100%;
+    position: relative;
+}
+
+
+
+#Pinturas article {
+    left: 25px;
+    margin: 15px;
+    margin-top: 50px;
+}
+
+#Pinturas img {
+  
+    width: 100%;
+    max-width: 300px
+    
+}
+#Pinturas h4 {
+    color: rgb(10, 73, 1);
+    font-size: 30px;
+    
+}
+#Pinturas hr{
+    color: rgb(10, 73, 1);
+    height: 5px;
+    border-radius: 5px;
+    background-color: rgb(10, 73, 1);
+}
